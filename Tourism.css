@@ -1,0 +1,85 @@
+@font-face {
+  font-family: ZCool;
+  src:url(ZCool.ttf);
+}
+@font-face {
+  font-family: Font6;
+  src:url(Font.ttf.ttf);
+}
+#Column1{
+  border: 5px solid #FF6F61
+
+}
+#Column2{
+  border: 5px solid #FF6F61
+
+}
+#Column3{
+  border: 5px solid #FF6F61
+
+}
+
+
+#UL1 {
+  border: 5px solid white
+}
+
+#UL3 {
+  border: 5px solid white
+}
+h1 {
+  font-family: ZCool;
+  color: white;
+border: 5px solid #FF6F61;
+width: 500px;
+}
+h3 {
+  font-family: ZCool;
+font-size: 25px;
+color: white;
+}
+
+
+body {
+  background-color: #45B8AC;
+margin: 0px;
+
+}
+
+a {
+ color: #EFC050
+}
+
+p {
+  font-family: Font6;
+  color: #EFC050;
+}
+
+#row2{
+  border-top: 7px solid black;
+}
+#P1 {
+  border: 5px solid white;
+  width: 800px;
+  font-family: Font6;
+  color: #EFC050;
+  font-size: 22px
+}
+#Map1 {
+  border: 5px groove #EFC050;
+  width: 260px;
+  height: 400px;
+}
+#Map2 {
+  border: 5px groove #EFC050;
+  width: 350px;
+  height: 400px;
+}
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+border-bottom: 5px solid #FF6F61;
+margin: 0px;
+}
